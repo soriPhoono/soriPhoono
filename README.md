@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @soriPhoono
-- 👀 I’m interested in graphics programming
-- 🌱 I’m currently learning: rust and vulkan langs/libraries
+- 👀 I’m interested in desktop development
+- 🌱 I’m currently learning: data structures and algorithmic design
 - 📫 How to reach me by email: soriphoono@gmail.com
-
-<!---
-soriPhoono/soriPhoono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
